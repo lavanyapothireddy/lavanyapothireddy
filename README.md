@@ -13,9 +13,8 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 
 ## 🌟 About Me
 
-* 🎓 **B.Tech in CSE** at **GITAM University** (CGPA: **8.23**)
-* 🔭 Current Focus: **Python**, **Data Analysis**, **Java**, **React**
-* 🧠 Interests: **Machine Learning**, **IoT**, **Databases**, **Android**
+* 🎓 **B.Tech in CSE** at **GITAM University** (CGPA: **8.17**)
+* 🔭 Current Focus: **Python**,**Java**, **C**
 * 💡 I enjoy building data-driven projects and practical IoT apps.
 * 🧑‍💻 Actively learning and contributing to open-source.
 
@@ -23,10 +22,10 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 
 ## 🧰 Tech Stack
 
-**Languages:** Python · Java · C · SQL · JavaScript
-**Data/ML:** Pandas · NumPy · scikit-learn · Matplotlib
+**Languages:** Python · Java · C · SQL 
+**Data/ML:** Pandas · NumPy · Matplotlib
 **Databases:** MySQL · MongoDB
-**Web/Apps:** React · HTML · CSS · Android (Basics)
+**Web/Apps:** React · HTML · CSS
 **Tools:** VS Code · Git · GitHub · MySQL Workbench
 
 ---
@@ -34,11 +33,7 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 ## 🚀 Featured Projects
 
 * **Smart Parking Slot Availability Management** — Frontend with HTML/CSS/JS, building backend with MySQL.
-* **Fake News Detection (ML)** — Text preprocessing, TF‑IDF, and model comparisons.
-* **Weather‑Based Smart Irrigation** — Python + Weather API for automated watering.
-* **Smart Battery Monitoring System for Twin Integration** — System design & monitoring concepts.
-* **Miniature Vehicle Platform with ECU & Sensor Network** — Embedded concepts & sensor data handling.
-* **Identification of Differentially Expressed Genes (Alzheimer’s)** — Data analysis & biomarker exploration.
+
 
 > 🔗 Add repository links for each project once they’re pushed (replace this line with links).
 
@@ -57,7 +52,7 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 ## 📝 Education
 
 * **GITAM University** — B.Tech in Computer Science & Engineering
-  *CGPA:* **8.23** · *Status:* Pursuing
+  *CGPA:* **8.17** · *Status:* Pursuing
 
 ---
 
@@ -76,14 +71,14 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 * 💼 LinkedIn: [Lavanya Pothireddy](https://www.linkedin.com/in/charan-charan-2bb059290)
 * 🐙 GitHub: [@lavanyapothireddy](https://github.com/lavanyapothireddy)
 * 📄 Resume: *Add link here*
-* 🌐 Portfolio/Blog: *Add link here*
-* ✉️ Email: *Add email here*
+* 🌐 Portfolio/Blog: *https://preview--pixel-perfect-lavanya.lovable.app/*
+* ✉️ Email: *pothireddylavanyareddy@gmail.com*
 
 ---
 
 ## 🤝 Open to
 
-* Data Analyst roles · Python developer roles · ML internships
+* Python developer roles 
 * Collaborations on data/ML and IoT projects
 
 ---
