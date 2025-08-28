@@ -1,7 +1,9 @@
 # Hi there, I'm Lavanya Pothireddy 👋
 
 **B.Tech CSE @ GITAM University** · **Aspiring Data Analyst & Python Developer**
-Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern (2025) · Team Lead (Capstone)
+Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern (2025) · Team Lead (Capstone Project)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya%20Pothireddy-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pothireddy-lavanya-9505b5285)
 [![GitHub](https://img.shields.io/badge/GitHub-lavanyapothireddy-black?logo=github)](https://github.com/lavanyapothireddy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?logo=google-chrome)](#)
