@@ -68,8 +68,7 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Lavanya Pothireddy](https://www.linkedin.com/in/pothireddy-lavanya-9505b5285)  
-- 🐙 GitHub: [@lavanyapothireddy](https://github.com/lavanyapothireddy)  
-- 📄 Resume: *Add link here*  
+- 🐙 GitHub: [@lavanyapothireddy](https://github.com/lavanyapothireddy)   
 - 🌐 Portfolio/Blog: [My Portfolio](https://preview--pixel-perfect-lavanya.lovable.app/)  
 - ✉️ Email: [pothireddylavanyareddy@gmail.com](mailto:pothireddylavanyareddy@gmail.com)  
 
