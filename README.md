@@ -6,7 +6,7 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya%20Pothireddy-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pothireddy-lavanya-9505b5285)
 [![GitHub](https://img.shields.io/badge/GitHub-lavanyapothireddy-black?logo=github)](https://github.com/lavanyapothireddy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?logo=google-chrome)](https://preview--pixel-perfect-lavanya.lovable.app/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-critical?logo=adobeacrobatreader)](#)
+[![Resume](https://img.shields.io/badge/Resume-PDF-critical?logo=adobeacrobatreader)](file:///C:/Users/lucky/Downloads/resume_pothireddy_lavanya.pdf)
 [![Email](https://img.shields.io/badge/Email-pothireddylavanyareddy%40gmail.com-informational?logo=gmail)](mailto:pothireddylavanyareddy@gmail.com)
 
 ---
