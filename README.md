@@ -34,7 +34,7 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 
 - **Smart Parking Slot Availability Management** — Frontend with HTML/CSS/JS, building backend with MySQL.  
 
-> 🔗 Add repository links for each project once they’re pushed (replace this line with links).
+> 🔗 https://github.com/lavanyapothireddy/Parking-Slot-Availability-Management
 
 ---
 
