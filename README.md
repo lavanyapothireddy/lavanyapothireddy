@@ -30,7 +30,7 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 - **Smart Parking Slot Availability Management** — Frontend with HTML/CSS/JS, building backend with MySQL.  
 
