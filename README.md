@@ -40,16 +40,6 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lavanyapothireddy&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyapothireddy&layout=compact&hide_border=true)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyapothireddy&show_icons=true&hide_border=true)  
-
----
-
 ## 📝 Education
 
 - **GITAM University** — B.Tech in Computer Science & Engineering  
