@@ -64,12 +64,6 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 - 🌐 Portfolio/Blog: [My Portfolio](https://preview--pixel-perfect-lavanya.lovable.app/)  
 - ✉️ Email: [pothireddylavanyareddy@gmail.com](mailto:pothireddylavanyareddy@gmail.com)  
 
----
-
-## 🤝 Open to
-
-- Python developer roles  
-- Collaborations on data/ML and IoT projects  
 
 ---
 
