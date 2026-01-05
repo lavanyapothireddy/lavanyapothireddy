@@ -23,10 +23,9 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 ## 🧰 Tech Stack
 
 **Languages:** Python · Java · C · SQL <br>
-**Data/ML:** Pandas · NumPy · Matplotlib <br>
-**Databases:** MySQL · MongoDB <br>
-**Web/Apps:** React · HTML · CSS <br>
-**Tools:** VS Code · Git · GitHub · MySQL Workbench  
+**Databases:** MySQL · DDL · DML · MongoDB <br>
+**Web/Apps:** JavaScript · HTML · CSS <br>
+**Tools:** VS Code  · GitHub  
 
 ---
 
