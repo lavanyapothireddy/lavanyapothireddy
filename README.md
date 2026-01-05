@@ -35,6 +35,9 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 
 > 🔗 https://github.com/lavanyapothireddy/Parking-Slot-Availability-Management
 
+- **Enhanced Smart Home Automation System with Advanced Monitoring and Control**
+> https://github.com/lavanyapothireddy/Enhanced-Smart-Home-Automation-System-with-Advanced-Monitoring-and-Control
+
 ---
 
 ## 📊 GitHub Analytics
