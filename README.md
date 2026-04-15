@@ -13,7 +13,7 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 
 ## 🌟 About Me
 
-- 🎓 **B.Tech in CSE** at **GITAM University** (CGPA: **8.17**)  
+- 🎓 **B.Tech in CSE** at **GITAM University** (CGPA: **8.27**)  
 - 🔭 Current Focus: **Python**, **Java**, **Web Development**  
 - 💡 I enjoy building data-driven projects and practical IoT apps.  
 - 🧑‍💻 Actively learning and contributing to open-source.  
