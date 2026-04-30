@@ -5,8 +5,6 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya%20Pothireddy-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pothireddy-lavanya-9505b5285)
 [![GitHub](https://img.shields.io/badge/GitHub-lavanyapothireddy-black?logo=github)](https://github.com/lavanyapothireddy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?logo=google-chrome)](https://preview--pixel-perfect-lavanya.lovable.app/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-critical?logo=adobeacrobatreader)](https://drive.google.com/file/d/1RUN-Wh1F-UzfISK03byI7gpbuqe683Hm/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/Email-pothireddylavanyareddy%40gmail.com-informational?logo=gmail)](mailto:pothireddylavanyareddy@gmail.com)
 
 ---
@@ -31,19 +29,16 @@ Android Developer Virtual Intern (Google for Developers, 2024) · MongoDB Intern
 
 ## 🚀 Projects
 
-- **Smart Parking Slot Availability Management** — Frontend with HTML/CSS/JS, building backend with MySQL.  
-
-> 🔗 https://github.com/lavanyapothireddy/Parking-Slot-Availability-Management
 
 - **Enhanced Smart Home Automation System with Advanced Monitoring and Control**
-> https://github.com/lavanyapothireddy/Enhanced-Smart-Home-Automation-System-with-Advanced-Monitoring-and-Control
+>[ https://github.com/lavanyapothireddy/Enhanced-Smart-Home-Automation-System-with-Advanced-Monitoring-and-Control](https://github.com/lavanyapothireddy/Enhanced-Smart-Home-Automation-System-with-Advanced-Monitoring-and-Control/tree/main)
 
 ---
 
 ## 📝 Education
 
 - **GITAM University** — B.Tech in Computer Science & Engineering  
-  *CGPA:* **8.17** · *Status:* Pursuing  
+  *CGPA:* **8.27** · *Status:* Graduate 
 
 ---
 
