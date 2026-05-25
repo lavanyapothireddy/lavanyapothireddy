@@ -98,11 +98,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyapothireddy&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyapothireddy&layout=compact&theme=default&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanyapothireddy&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Lavanya's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyapothireddy&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=lavanyapothireddy&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -115,7 +115,6 @@
 |----------|------|
 | 💼 LinkedIn | [Lavanya Pothireddy](https://www.linkedin.com/in/pothireddy-lavanya-9505b5285) |
 | 🐙 GitHub | [@lavanyapothireddy](https://github.com/lavanyapothireddy) |
-| 🌐 Portfolio | [pixel-perfect-lavanya](https://preview--pixel-perfect-lavanya.lovable.app/) |
 | ✉️ Email | [pothireddylavanyareddy@gmail.com](mailto:pothireddylavanyareddy@gmail.com) |
 
 </div>
