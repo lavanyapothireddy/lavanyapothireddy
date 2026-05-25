@@ -17,7 +17,7 @@
 ## 🌟 About Me
 
 - 🎓 **B.Tech in Computer Science & Engineering** — GITAM Deemed University *(CGPA: 8.27)*
-- 💼 Open to **Software Developer · Web Developer · Python Developer · ML Engineer** roles
+- 💼 Open to **Software Developer · Web Developer · Python Developer · Java Developer** roles
 - 🔬 Built a **CNN-based Skin Disease Detection system** for stray dogs using Deep Learning
 - 🏠 Developed an **IoT Smart Home Automation System** with real-time monitoring & remote control
 - 🤖 Completed **6 internships** across Python, Java, Web Dev, Android, MongoDB & ML
