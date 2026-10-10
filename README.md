@@ -2,7 +2,7 @@
 
 # Hi, I'm Pothireddy Lavanya 👋
 
-**B.Tech CSE Graduate · GITAM Deemed University · CGPA 8.27**
+**B.Tech CSE Graduate · GITAM Deemed University · CGPA 8.29**
 
 *Aspiring Software Developer | Python · Java · Web Development  · IoT*
 
